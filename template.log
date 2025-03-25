@@ -1,0 +1,526 @@
+2025-02-24 00:01:39,026 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s236ms).
+2025-02-24 00:27:16,242 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=25m37s216ms).
+2025-02-24 00:45:09,021 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m52s779ms).
+2025-02-24 01:02:20,270 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m11s249ms).
+2025-02-24 01:20:00,471 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m40s201ms).
+2025-02-24 01:36:24,592 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s121ms).
+2025-02-24 01:52:26,641 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m2s49ms).
+2025-02-24 02:08:37,860 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m11s219ms).
+2025-02-24 02:24:41,013 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m3s153ms).
+2025-02-24 02:41:52,266 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m11s253ms).
+2025-02-24 02:57:32,468 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m40s202ms).
+2025-02-24 03:09:15,675 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=11m43s207ms).
+2025-02-24 03:27:20,775 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m5s100ms).
+2025-02-24 03:44:42,794 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m22s19ms).
+2025-02-24 04:00:45,961 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m3s167ms).
+2025-02-24 04:16:59,142 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m13s181ms).
+2025-02-24 04:32:57,325 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m58s183ms).
+2025-02-24 04:48:46,288 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m48s962ms).
+2025-02-24 05:05:04,472 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m18s185ms).
+2025-02-24 05:22:33,657 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m29s185ms).
+2025-02-24 05:39:20,751 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m47s94ms).
+2025-02-24 05:54:51,910 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=15m31s159ms).
+2025-02-24 06:19:32,781 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m40s871ms).
+2025-02-24 06:37:27,462 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m54s681ms).
+2025-02-24 06:54:28,636 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m1s174ms).
+2025-02-24 07:02:25,699 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=7m57s63ms).
+2025-02-24 07:18:50,658 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m24s959ms).
+2025-02-24 07:35:32,486 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m41s828ms).
+2025-02-24 07:52:09,568 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m37s82ms).
+2025-02-24 08:19:46,655 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=27m37s87ms).
+2025-02-24 08:36:25,764 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m39s109ms).
+2025-02-24 08:54:40,914 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=18m15s150ms).
+2025-02-24 09:20:51,940 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=26m11s25ms).
+2025-02-24 09:38:46,216 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=17m54s277ms).
+2025-02-24 09:55:12,369 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=16m26s153ms).
+2025-02-24 09:58:08,322 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m55s953ms).
+2025-02-24 10:22:26,129 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=24m17s807ms).
+2025-02-24 10:27:18,672 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=4m52s543ms).
+2025-02-24 10:29:31,735 WARN  41840 [HikariPool-1 housekeeper] RID NO com.zaxxer.hikari.pool.HikariPool        HikariPool-1 - Thread starvation or clock leap detected (housekeeper delta=2m13s63ms).
+2025-02-24 11:13:40,099 INFO  41840 [SpringApplicationShutdownHook] RID NO o.s.b.w.e.tomcat.GracefulShutdown        Commencing graceful shutdown. Waiting for active requests to complete
+2025-02-24 11:13:40,108 INFO  41840 [tomcat-shutdown] RID NO o.s.b.w.e.tomcat.GracefulShutdown        Graceful shutdown complete
+2025-02-24 11:13:40,119 INFO  41840 [SpringApplicationShutdownHook] RID NO j.LocalContainerEntityManagerFactoryBean Closing JPA EntityManagerFactory for persistence unit 'default'
+2025-02-24 17:21:56,955 INFO  77362 [main] RID NO u.a.template.TemplateApplication         Starting TemplateApplication using Java 17.0.14 with PID 77362 (/Users/user/Downloads/template/build/classes/java/main started by user in /Users/user/Downloads/template)
+2025-02-24 17:21:56,958 INFO  77362 [main] RID NO u.a.template.TemplateApplication         The following 1 profile is active: "local"
+2025-02-24 17:21:57,691 INFO  77362 [main] RID NO .s.d.r.c.RepositoryConfigurationDelegate Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-24 17:21:57,746 INFO  77362 [main] RID NO .s.d.r.c.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 49 ms. Found 4 JPA repository interfaces.
+2025-02-24 17:21:58,203 INFO  77362 [main] RID NO o.s.b.w.embedded.tomcat.TomcatWebServer  Tomcat initialized with port 8080 (http)
+2025-02-24 17:21:58,237 INFO  77362 [main] RID NO w.s.c.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 1239 ms
+2025-02-24 17:22:01,067 INFO  77362 [main] RID NO liquibase.database                       Set default schema name to public
+2025-02-24 17:22:01,289 INFO  77362 [main] RID NO liquibase.changelog                      Reading from public.databasechangelog
+2025-02-24 17:22:01,324 INFO  77362 [main] RID NO liquibase.lockservice                    Successfully acquired change log lock
+2025-02-24 17:22:01,324 INFO  77362 [main] RID NO liquibase.command                        Using deploymentId: 0399721324
+2025-02-24 17:22:01,325 INFO  77362 [main] RID NO liquibase.changelog                      Reading from public.databasechangelog
+2025-02-24 17:22:01,331 INFO  77362 [main] RID NO liquibase.ui                             Running Changeset: db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com
+2025-02-24 17:22:01,341 ERROR 77362 [main] RID NO liquibase.changelog                      ChangeSet db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com encountered an exception.
+liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:497)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:83)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:185)
+	at liquibase.executor.AbstractExecutor.execute(AbstractExecutor.java:141)
+	at liquibase.database.AbstractJdbcDatabase.executeStatements(AbstractJdbcDatabase.java:1189)
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:776)
+	at liquibase.changelog.visitor.UpdateVisitor.executeAcceptedChange(UpdateVisitor.java:126)
+	at liquibase.changelog.visitor.UpdateVisitor.visit(UpdateVisitor.java:70)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$0(ChangeLogIterator.java:131)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$1(ChangeLogIterator.java:120)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.Scope.child(Scope.java:261)
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:89)
+	at liquibase.command.core.AbstractUpdateCommandStep.lambda$run$0(AbstractUpdateCommandStep.java:114)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.command.core.AbstractUpdateCommandStep.run(AbstractUpdateCommandStep.java:112)
+	at liquibase.command.core.UpdateCommandStep.run(UpdateCommandStep.java:105)
+	at liquibase.command.CommandScope.execute(CommandScope.java:220)
+	at liquibase.Liquibase.lambda$update$0(Liquibase.java:216)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Liquibase.runInScope(Liquibase.java:1329)
+	at liquibase.Liquibase.update(Liquibase.java:205)
+	at liquibase.Liquibase.update(Liquibase.java:188)
+	at liquibase.integration.spring.SpringLiquibase.performUpdate(SpringLiquibase.java:305)
+	at liquibase.integration.spring.SpringLiquibase.lambda$afterPropertiesSet$0(SpringLiquibase.java:257)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:307)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at uz.aloqabank.template.TemplateApplication.main(TemplateApplication.java:26)
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2675)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2365)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:355)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:490)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:408)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:329)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:315)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:291)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:286)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:491)
+	... 61 common frames omitted
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           UPDATE SUMMARY
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           Run:                          0
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           Previously run:               0
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           Filtered out:                 0
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           -------------------------------
+2025-02-24 17:22:01,346 INFO  77362 [main] RID NO liquibase.util                           Total change sets:            2
+2025-02-24 17:22:01,347 INFO  77362 [main] RID NO liquibase.util                           Update summary generated
+2025-02-24 17:22:01,347 INFO  77362 [main] RID NO liquibase.command                        Update command encountered an exception.
+2025-02-24 17:22:01,349 INFO  77362 [main] RID NO liquibase.lockservice                    Successfully released change log lock
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.command                        Logging exception.
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.ui                             ERROR: Exception Details
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.ui                             ERROR: Exception Primary Class:  PSQLException
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.ui                             ERROR: Exception Primary Reason:  ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.ui                             ERROR: Exception Primary Source:  PostgreSQL 16.4
+2025-02-24 17:22:01,350 INFO  77362 [main] RID NO liquibase.command                        Command execution complete
+2025-02-24 17:22:01,351 WARN  77362 [main] RID NO ConfigServletWebServerApplicationContext Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'liquibase' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+2025-02-24 17:22:01,364 INFO  77362 [main] RID NO .s.b.a.l.ConditionEvaluationReportLogger 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-24 17:22:01,374 ERROR 77362 [main] RID NO o.s.boot.SpringApplication               Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'liquibase' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at uz.aloqabank.template.TemplateApplication.main(TemplateApplication.java:26)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:307)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:312)
+	... 8 common frames omitted
+Caused by: liquibase.exception.UnexpectedLiquibaseException: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:267)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	... 15 common frames omitted
+Caused by: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.command.CommandScope.execute(CommandScope.java:258)
+	at liquibase.Liquibase.lambda$update$0(Liquibase.java:216)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Liquibase.runInScope(Liquibase.java:1329)
+	at liquibase.Liquibase.update(Liquibase.java:205)
+	at liquibase.Liquibase.update(Liquibase.java:188)
+	at liquibase.integration.spring.SpringLiquibase.performUpdate(SpringLiquibase.java:305)
+	at liquibase.integration.spring.SpringLiquibase.lambda$afterPropertiesSet$0(SpringLiquibase.java:257)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:250)
+	... 17 common frames omitted
+Caused by: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:148)
+	at liquibase.command.core.AbstractUpdateCommandStep.lambda$run$0(AbstractUpdateCommandStep.java:114)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.command.core.AbstractUpdateCommandStep.run(AbstractUpdateCommandStep.java:112)
+	at liquibase.command.core.UpdateCommandStep.run(UpdateCommandStep.java:105)
+	at liquibase.command.CommandScope.execute(CommandScope.java:220)
+	... 33 common frames omitted
+Caused by: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:820)
+	at liquibase.changelog.visitor.UpdateVisitor.executeAcceptedChange(UpdateVisitor.java:126)
+	at liquibase.changelog.visitor.UpdateVisitor.visit(UpdateVisitor.java:70)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$0(ChangeLogIterator.java:131)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$1(ChangeLogIterator.java:120)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.Scope.child(Scope.java:261)
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:89)
+	... 41 common frames omitted
+Caused by: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:497)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:83)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:185)
+	at liquibase.executor.AbstractExecutor.execute(AbstractExecutor.java:141)
+	at liquibase.database.AbstractJdbcDatabase.executeStatements(AbstractJdbcDatabase.java:1189)
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:776)
+	... 56 common frames omitted
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2675)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2365)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:355)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:490)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:408)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:329)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:315)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:291)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:286)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:491)
+	... 61 common frames omitted
+2025-02-24 17:22:08,194 INFO  77380 [main] RID NO u.a.template.TemplateApplication         Starting TemplateApplication using Java 17.0.14 with PID 77380 (/Users/user/Downloads/template/build/classes/java/main started by user in /Users/user/Downloads/template)
+2025-02-24 17:22:08,195 INFO  77380 [main] RID NO u.a.template.TemplateApplication         The following 1 profile is active: "local"
+2025-02-24 17:22:08,659 INFO  77380 [main] RID NO .s.d.r.c.RepositoryConfigurationDelegate Bootstrapping Spring Data JPA repositories in DEFAULT mode.
+2025-02-24 17:22:08,695 INFO  77380 [main] RID NO .s.d.r.c.RepositoryConfigurationDelegate Finished Spring Data repository scanning in 30 ms. Found 4 JPA repository interfaces.
+2025-02-24 17:22:09,084 INFO  77380 [main] RID NO o.s.b.w.embedded.tomcat.TomcatWebServer  Tomcat initialized with port 9000 (http)
+2025-02-24 17:22:09,116 INFO  77380 [main] RID NO w.s.c.ServletWebServerApplicationContext Root WebApplicationContext: initialization completed in 899 ms
+2025-02-24 17:22:09,327 INFO  77380 [main] RID NO liquibase.database                       Set default schema name to public
+2025-02-24 17:22:09,524 INFO  77380 [main] RID NO liquibase.changelog                      Reading from public.databasechangelog
+2025-02-24 17:22:09,551 INFO  77380 [main] RID NO liquibase.lockservice                    Successfully acquired change log lock
+2025-02-24 17:22:09,552 INFO  77380 [main] RID NO liquibase.command                        Using deploymentId: 0399729551
+2025-02-24 17:22:09,553 INFO  77380 [main] RID NO liquibase.changelog                      Reading from public.databasechangelog
+2025-02-24 17:22:09,558 INFO  77380 [main] RID NO liquibase.ui                             Running Changeset: db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com
+2025-02-24 17:22:09,566 ERROR 77380 [main] RID NO liquibase.changelog                      ChangeSet db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com encountered an exception.
+liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:497)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:83)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:185)
+	at liquibase.executor.AbstractExecutor.execute(AbstractExecutor.java:141)
+	at liquibase.database.AbstractJdbcDatabase.executeStatements(AbstractJdbcDatabase.java:1189)
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:776)
+	at liquibase.changelog.visitor.UpdateVisitor.executeAcceptedChange(UpdateVisitor.java:126)
+	at liquibase.changelog.visitor.UpdateVisitor.visit(UpdateVisitor.java:70)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$0(ChangeLogIterator.java:131)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$1(ChangeLogIterator.java:120)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.Scope.child(Scope.java:261)
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:89)
+	at liquibase.command.core.AbstractUpdateCommandStep.lambda$run$0(AbstractUpdateCommandStep.java:114)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.command.core.AbstractUpdateCommandStep.run(AbstractUpdateCommandStep.java:112)
+	at liquibase.command.core.UpdateCommandStep.run(UpdateCommandStep.java:105)
+	at liquibase.command.CommandScope.execute(CommandScope.java:220)
+	at liquibase.Liquibase.lambda$update$0(Liquibase.java:216)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Liquibase.runInScope(Liquibase.java:1329)
+	at liquibase.Liquibase.update(Liquibase.java:205)
+	at liquibase.Liquibase.update(Liquibase.java:188)
+	at liquibase.integration.spring.SpringLiquibase.performUpdate(SpringLiquibase.java:305)
+	at liquibase.integration.spring.SpringLiquibase.lambda$afterPropertiesSet$0(SpringLiquibase.java:257)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:250)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:307)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:312)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at uz.aloqabank.template.TemplateApplication.main(TemplateApplication.java:26)
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2675)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2365)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:355)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:490)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:408)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:329)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:315)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:291)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:286)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:491)
+	... 61 common frames omitted
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           UPDATE SUMMARY
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           Run:                          0
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           Previously run:               0
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           Filtered out:                 0
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           -------------------------------
+2025-02-24 17:22:09,571 INFO  77380 [main] RID NO liquibase.util                           Total change sets:            2
+2025-02-24 17:22:09,572 INFO  77380 [main] RID NO liquibase.util                           Update summary generated
+2025-02-24 17:22:09,572 INFO  77380 [main] RID NO liquibase.command                        Update command encountered an exception.
+2025-02-24 17:22:09,574 INFO  77380 [main] RID NO liquibase.lockservice                    Successfully released change log lock
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.command                        Logging exception.
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.ui                             ERROR: Exception Details
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.ui                             ERROR: Exception Primary Class:  PSQLException
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.ui                             ERROR: Exception Primary Reason:  ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.ui                             ERROR: Exception Primary Source:  PostgreSQL 16.4
+2025-02-24 17:22:09,575 INFO  77380 [main] RID NO liquibase.command                        Command execution complete
+2025-02-24 17:22:09,576 WARN  77380 [main] RID NO ConfigServletWebServerApplicationContext Exception encountered during context initialization - cancelling refresh attempt: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'liquibase' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+2025-02-24 17:22:09,600 INFO  77380 [main] RID NO .s.b.a.l.ConditionEvaluationReportLogger 
+
+Error starting ApplicationContext. To display the condition evaluation report re-run your application with 'debug' enabled.
+2025-02-24 17:22:09,608 ERROR 77380 [main] RID NO o.s.boot.SpringApplication               Application run failed
+org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'entityManagerFactory' defined in class path resource [org/springframework/boot/autoconfigure/orm/jpa/HibernateJpaConfiguration.class]: Failed to initialize dependency 'liquibase' of LoadTimeWeaverAware bean 'entityManagerFactory': Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:325)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:204)
+	at org.springframework.context.support.AbstractApplicationContext.finishBeanFactoryInitialization(AbstractApplicationContext.java:970)
+	at org.springframework.context.support.AbstractApplicationContext.refresh(AbstractApplicationContext.java:627)
+	at org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext.refresh(ServletWebServerApplicationContext.java:146)
+	at org.springframework.boot.SpringApplication.refresh(SpringApplication.java:752)
+	at org.springframework.boot.SpringApplication.refreshContext(SpringApplication.java:439)
+	at org.springframework.boot.SpringApplication.run(SpringApplication.java:318)
+	at uz.aloqabank.template.TemplateApplication.main(TemplateApplication.java:26)
+Caused by: org.springframework.beans.factory.BeanCreationException: Error creating bean with name 'liquibase' defined in class path resource [org/springframework/boot/autoconfigure/liquibase/LiquibaseAutoConfiguration$LiquibaseConfiguration.class]: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1812)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.doCreateBean(AbstractAutowireCapableBeanFactory.java:601)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.createBean(AbstractAutowireCapableBeanFactory.java:523)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.lambda$doGetBean$0(AbstractBeanFactory.java:336)
+	at org.springframework.beans.factory.support.DefaultSingletonBeanRegistry.getSingleton(DefaultSingletonBeanRegistry.java:307)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:334)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.getBean(AbstractBeanFactory.java:199)
+	at org.springframework.beans.factory.support.AbstractBeanFactory.doGetBean(AbstractBeanFactory.java:312)
+	... 8 common frames omitted
+Caused by: liquibase.exception.UnexpectedLiquibaseException: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:267)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.invokeInitMethods(AbstractAutowireCapableBeanFactory.java:1859)
+	at org.springframework.beans.factory.support.AbstractAutowireCapableBeanFactory.initializeBean(AbstractAutowireCapableBeanFactory.java:1808)
+	... 15 common frames omitted
+Caused by: liquibase.exception.CommandExecutionException: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.command.CommandScope.execute(CommandScope.java:258)
+	at liquibase.Liquibase.lambda$update$0(Liquibase.java:216)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Liquibase.runInScope(Liquibase.java:1329)
+	at liquibase.Liquibase.update(Liquibase.java:205)
+	at liquibase.Liquibase.update(Liquibase.java:188)
+	at liquibase.integration.spring.SpringLiquibase.performUpdate(SpringLiquibase.java:305)
+	at liquibase.integration.spring.SpringLiquibase.lambda$afterPropertiesSet$0(SpringLiquibase.java:257)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.integration.spring.SpringLiquibase.afterPropertiesSet(SpringLiquibase.java:250)
+	... 17 common frames omitted
+Caused by: liquibase.exception.LiquibaseException: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:148)
+	at liquibase.command.core.AbstractUpdateCommandStep.lambda$run$0(AbstractUpdateCommandStep.java:114)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.command.core.AbstractUpdateCommandStep.run(AbstractUpdateCommandStep.java:112)
+	at liquibase.command.core.UpdateCommandStep.run(UpdateCommandStep.java:105)
+	at liquibase.command.CommandScope.execute(CommandScope.java:220)
+	... 33 common frames omitted
+Caused by: liquibase.exception.MigrationFailedException: Migration failed for changeset db/changelog/liquibase-changeLog.xml::1::inoyatovnuriddin007@gmail.com:
+     Reason: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:820)
+	at liquibase.changelog.visitor.UpdateVisitor.executeAcceptedChange(UpdateVisitor.java:126)
+	at liquibase.changelog.visitor.UpdateVisitor.visit(UpdateVisitor.java:70)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$0(ChangeLogIterator.java:131)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.changelog.ChangeLogIterator.lambda$run$1(ChangeLogIterator.java:120)
+	at liquibase.Scope.lambda$child$0(Scope.java:191)
+	at liquibase.Scope.child(Scope.java:200)
+	at liquibase.Scope.child(Scope.java:190)
+	at liquibase.Scope.child(Scope.java:169)
+	at liquibase.Scope.child(Scope.java:257)
+	at liquibase.Scope.child(Scope.java:261)
+	at liquibase.changelog.ChangeLogIterator.run(ChangeLogIterator.java:89)
+	... 41 common frames omitted
+Caused by: liquibase.exception.DatabaseException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists. [Failed SQL: (0) insert into authority(code) values
+('ROLE_ADMIN'),
+('ROLE_USER')]
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:497)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:83)
+	at liquibase.executor.jvm.JdbcExecutor.execute(JdbcExecutor.java:185)
+	at liquibase.executor.AbstractExecutor.execute(AbstractExecutor.java:141)
+	at liquibase.database.AbstractJdbcDatabase.executeStatements(AbstractJdbcDatabase.java:1189)
+	at liquibase.changelog.ChangeSet.execute(ChangeSet.java:776)
+	... 56 common frames omitted
+Caused by: org.postgresql.util.PSQLException: ERROR: duplicate key value violates unique constraint "authority_pkey"
+  Detail: Key (code)=(ROLE_ADMIN) already exists.
+	at org.postgresql.core.v3.QueryExecutorImpl.receiveErrorResponse(QueryExecutorImpl.java:2675)
+	at org.postgresql.core.v3.QueryExecutorImpl.processResults(QueryExecutorImpl.java:2365)
+	at org.postgresql.core.v3.QueryExecutorImpl.execute(QueryExecutorImpl.java:355)
+	at org.postgresql.jdbc.PgStatement.executeInternal(PgStatement.java:490)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:408)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:329)
+	at org.postgresql.jdbc.PgStatement.executeCachedSql(PgStatement.java:315)
+	at org.postgresql.jdbc.PgStatement.executeWithFlags(PgStatement.java:291)
+	at org.postgresql.jdbc.PgStatement.execute(PgStatement.java:286)
+	at com.zaxxer.hikari.pool.ProxyStatement.execute(ProxyStatement.java:94)
+	at com.zaxxer.hikari.pool.HikariProxyStatement.execute(HikariProxyStatement.java)
+	at liquibase.executor.jvm.JdbcExecutor$ExecuteStatementCallback.doInStatement(JdbcExecutor.java:491)
+	... 61 common frames omitted

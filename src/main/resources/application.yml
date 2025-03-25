@@ -1,0 +1,74 @@
+spring:
+  liquibase:
+    change-log: /db/changelog/liquibase-changeLog.xml
+    enabled: true
+  servlet:
+    multipart:
+      max-file-size: 100MB
+      max-request-size: 100MB
+springdoc:
+  api-docs:
+    path: /v3/api-docs
+  swagger-ui:
+    path: /swagger-ui.html
+    operationsSorter: method
+    version: 3.0.1
+
+#Tomcat server configuration
+server:
+  tomcat:
+    basedir: tomcat
+    accesslog:
+      enabled: true
+      directory: tomcat/logs
+      condition-unless: .log
+      prefix: access-log
+    accept-count: 500
+    threads:
+      max: 1000
+    connection-timeout: 10s
+  port: 9000
+security:
+  authentication:
+    jwt:
+      # This token must be encoded using Base64 and be at least 256 bits long (you can type `openssl rand -base64 64` on your command line to generate a 512 bits one)
+      base64-secret: MDcwZDhiMTBmZTdkMWQ2MTFmNzMyNjMwZWNlMjZjNWIwYTYyZDVlMGI3NTVhMTBjZjQ0MWViNzc2MmI0ZDFjYjk2MTgwZGE5YjRkNmNjYzEwOGZhZjEwMWFhMzE3MDUwMDZlMDI4ZjdlMWI4NDJmMGM1MjBmM2QyZWI5MTFkYjY=
+      # Token is valid 24 hours
+      token-validity-in-seconds: 86400
+#Logging configuration
+logging:
+  pattern:
+    console: "%clr(%d){faint} %clr(%-5level) %clr(${PID:- }){magenta} %clr(---){faint} %clr([%thread]){faint} %clr(RID %X{request.id:-NO}){yellow}
+              %clr(%-40.40logger{39}){cyan} %clr(:){faint} %msg%n"
+    file: "%d %-5level ${PID:- } [%thread] RID %X{request.id:-NO} %-40.40logger{39} %msg%n"
+  file:
+    name: /var/log/tomcat/template.log
+  group:
+    template: "uz.account.template"
+    javax: "jakarta.activation,jakarta.xml.bind"
+    hibernate: "org.hibernate"
+    spring: "org.springframework,org.springframework.web,org.springframework.security,org.springframework.cache,org.springframework.jndi,org.springframework.jdbc"
+    httpclient: "httpclient.wire.header,httpclient.wire.content"
+  level:
+    root: INFO
+
+    template: DEBUG
+    javax: WARN
+    hibernate: INFO
+    spring: INFO
+    httpclient: ERROR
+
+    "com.codahale.metrics": WARN
+    "com.sun": WARN
+    "ch.qos.logback": WARN
+    "com.ryantenney": WARN
+    "com.zaxxer": WARN
+    "org.apache": WARN
+    "org.apache.catalina.startup.DigesterFactory": OFF
+    "org.bson": WARN
+    "com.fasterxml.jackson.databind.introspect": OFF
+    "sun.net.www.protocol.http.HttpURLConnection": ERROR
+    "org.springframework.jdbc.datasource": OFF
+    "org.postgresql": OFF
+    "jakarta.management.remote.rmi": ERROR
+    "jakarta.xml.soap": ERROR

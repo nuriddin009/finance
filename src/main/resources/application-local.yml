@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    url: jdbc:postgresql://localhost:5433/template
+    username: postgres
+    password: root123
+  jpa:
+    properties:
+      hibernate.format_sql: false
+    hibernate:
+      ddl-auto: update
+    show-sql: false
+logging:
+  file:
+    name: template.log

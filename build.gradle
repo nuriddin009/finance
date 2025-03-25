@@ -1,0 +1,54 @@
+plugins {
+    id 'java'
+    id 'org.springframework.boot' version '3.4.2'
+    id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'uz.aloqabank'
+version = '0.0.1-SNAPSHOT'
+
+java {
+    toolchain {
+        languageVersion = JavaLanguageVersion.of(17)
+    }
+}
+java {
+    sourceCompatibility = '17'
+}
+
+repositories {
+    mavenCentral()
+}
+ext {
+    apacheCommonsCliVersion = '1.5.0'
+    springDocOpenApiVersion = '2.7.0'
+    postgresqlVersion = '42.3.2'
+    mapstructVersion = '1.4.2.Final'
+}
+
+
+dependencies {
+    implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+    implementation 'org.springframework.boot:spring-boot-starter-security'
+    implementation 'org.springframework.boot:spring-boot-starter-web'
+    implementation 'org.springframework.boot:spring-boot-starter-amqp'
+    implementation group: 'org.springframework.boot', name: 'spring-boot-starter-validation'
+    compileOnly 'org.projectlombok:lombok'
+    annotationProcessor 'org.projectlombok:lombok'
+    implementation group: 'org.apache.commons', name: 'commons-lang3'
+
+    implementation group: 'org.postgresql', name: 'postgresql', version: postgresqlVersion
+
+    implementation group: 'org.springdoc', name: 'springdoc-openapi-starter-webmvc-ui', version: springDocOpenApiVersion
+    implementation group: 'org.springdoc', name: 'springdoc-openapi-starter-common', version: springDocOpenApiVersion
+
+    implementation group: 'org.liquibase', name: 'liquibase-core'
+
+    implementation group: 'org.mapstruct', name: 'mapstruct', version: mapstructVersion
+    annotationProcessor group: 'org.mapstruct', name: 'mapstruct-processor', version: mapstructVersion
+    implementation group: 'com.auth0', name: 'java-jwt', version: '4.4.0'
+    implementation 'org.springframework.boot:spring-boot-starter-thymeleaf'
+    implementation 'com.fasterxml.jackson.core:jackson-core:2.15.2'
+    implementation 'com.fasterxml.jackson.core:jackson-databind:2.15.2'
+}
+
