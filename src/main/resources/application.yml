@@ -1,11 +1,13 @@
 spring:
   liquibase:
     change-log: /db/changelog/liquibase-changeLog.xml
-    enabled: true
+    enabled: false
   servlet:
     multipart:
       max-file-size: 100MB
       max-request-size: 100MB
+  profiles:
+    active: local
 springdoc:
   api-docs:
     path: /v3/api-docs
@@ -27,7 +29,7 @@ server:
     threads:
       max: 1000
     connection-timeout: 10s
-  port: 9000
+  port: 8080
 security:
   authentication:
     jwt:
@@ -42,7 +44,7 @@ logging:
               %clr(%-40.40logger{39}){cyan} %clr(:){faint} %msg%n"
     file: "%d %-5level ${PID:- } [%thread] RID %X{request.id:-NO} %-40.40logger{39} %msg%n"
   file:
-    name: /var/log/tomcat/template.log
+    name: /var/log/tomcat/finance.log
   group:
     template: "uz.account.template"
     javax: "jakarta.activation,jakarta.xml.bind"
