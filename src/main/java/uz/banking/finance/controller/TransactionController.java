@@ -1,5 +1,6 @@
 package uz.banking.finance.controller;
 
+import lombok.RequiredArgsConstructor;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.web.bind.annotation.*;
 import uz.banking.finance.constants.ResponseStatus;
@@ -17,13 +18,10 @@ import java.util.UUID;
 
 @Slf4j
 @RestController
+@RequiredArgsConstructor
 @RequestMapping("/api/transaction")
 public class TransactionController implements ExceptionHandler {
     private final TransactionService transactionService;
-
-    public TransactionController(TransactionService transactionService) {
-        this.transactionService = transactionService;
-    }
 
     @GetMapping("/list")
     public Response<ListResult<Transaction>> getTransactionList(TransactionFilter filter) {
