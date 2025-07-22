@@ -36,7 +36,7 @@ public class TransactionCustomRepositoryImpl implements TransactionCustomReposit
         if (StringUtils.isNotBlank(filter.getSearchKey())) {
             var searchKey = filter.getSearchKey().trim().toLowerCase();
             sql.append(" AND ( ");
-            sql.append(" lower(tr.name) like '%").append(searchKey).append("%'");
+            sql.append(" lower(tr.description) like '%").append(searchKey).append("%'");
             sql.append(")");
         }
         return sql.toString();
