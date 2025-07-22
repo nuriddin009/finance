@@ -16,7 +16,7 @@ public class TransactionCustomRepositoryImpl implements TransactionCustomReposit
 
     @Override
     public List<MTransaction> getList(TransactionFilter filter) {
-        String sql = " SELECT tr.* FROM " + getTransactionBaseQuery(filter) + " ORDER BY tr.id DESC";
+        String sql = buildBaseQuery(filter, false);
         return entityManager.createNativeQuery(sql, MTransaction.class)
                 .setMaxResults(filter.getLimit())
                 .setFirstResult(filter.getStart())
@@ -25,20 +25,40 @@ public class TransactionCustomRepositoryImpl implements TransactionCustomReposit
 
     @Override
     public Long getCount(TransactionFilter filter) {
-        var count = (Long) entityManager.createNativeQuery(" SELECT count(tr.id) FROM " + getTransactionBaseQuery(filter)).getSingleResult();
-        return count != null ? count : 0;
+        String sql = buildBaseQuery(filter, true);
+        Object count = entityManager.createNativeQuery(sql).getSingleResult();
+        return count != null ? ((Number) count).longValue() : 0L;
     }
 
-    private String getTransactionBaseQuery(TransactionFilter filter) {
-        var sql = new StringBuilder(" transaction tr ");
-        sql.append(" WHERE tr.deleted is not true ");
+    private String buildBaseQuery(TransactionFilter filter, boolean isCount) {
+        StringBuilder sql = new StringBuilder();
+        if (isCount) {
+            sql.append("SELECT COUNT(tr.id) ");
+        } else {
+            sql.append("SELECT tr.* ");
+        }
+        sql.append("FROM transactions tr WHERE tr.deleted IS NOT TRUE ");
+
+        if (filter.getUserId() != null) {
+            sql.append(" AND tr.user_id = '").append(filter.getUserId()).append("' ");
+        }
+
+        if (filter.getFrom() != null) {
+            sql.append(" AND DATE(tr.created_at) >= '").append(filter.getFrom()).append("' ");
+        }
+        if (filter.getTo() != null) {
+            sql.append(" AND DATE(tr.created_at) <= '").append(filter.getTo()).append("' ");
+        }
 
         if (StringUtils.isNotBlank(filter.getSearchKey())) {
-            var searchKey = filter.getSearchKey().trim().toLowerCase();
-            sql.append(" AND ( ");
-            sql.append(" lower(tr.description) like '%").append(searchKey).append("%'");
-            sql.append(")");
+            String searchKey = filter.getSearchKey().trim().toLowerCase();
+            sql.append(" AND (LOWER(tr.description) LIKE '%").append(searchKey).append("%') ");
         }
+
+        if (!isCount) {
+            sql.append(" ORDER BY tr.created_at DESC ");
+        }
+
         return sql.toString();
     }
 }
